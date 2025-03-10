@@ -767,7 +767,7 @@ Order = 20
         Description = Password for Slurm DBD admin
         ParameterType = Password
         #itv
-        #DefaultValue = "inclua a senha aqui"                
+        DefaultValue = "QUJHv6zcKLaJQRrgCxUs"                
         Conditions.Excluded := configuration_slurm_accounting_enabled isnt true
 
         [[[parameter configuration_slurm_accounting_certificate_url]]]
